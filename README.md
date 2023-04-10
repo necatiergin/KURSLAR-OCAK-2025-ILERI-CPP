@@ -1,6 +1,6 @@
 ## Online İleri C++ (Advanced C++) Kursu
 
-🎯 Bu kurs C++ diline genel olarak hakim C++ Programcılarına yöneliktir.  
+🎯 Bu kurs C++ diline genel olarak hakim C++ Programcılarına yöneliktir. 
 
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.<br><br>
