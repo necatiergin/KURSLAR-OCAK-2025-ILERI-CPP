@@ -2,6 +2,8 @@
 
 🎯 Bu kursun amacı C++ programcılarını daha üst bir seviyeye taşımak, onları yeni tekniklerle ve C++17/20/23 gelen araçlarla tanıştırmak, onların bilgi ve beceri düzeylerini arttırmaktır.
 
+🎯 Kursu tamamlayanlat ileri düzey C++ bilgisi gerektiren, low latency, oyun programlama, telekom, finansal endüstri, savunma sanayi, otomotiv, otonomi gibi alanlarda çalışmaya aday olacaklardır.
+
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.<br><br>
