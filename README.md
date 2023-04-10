@@ -14,7 +14,7 @@
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kursun Genel Tanıtımı]()<br>
-&#128279; [Kurs İçeriği]()<br>
+&#128279; [Kurs İçeriği](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)<br>
 &#128279; [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.]()
 
 
