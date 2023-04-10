@@ -1,8 +1,6 @@
 ## Online İleri C++ (Advanced C++) Kursu
 
-🎯 Bu kursun amacı C++ programcılarını daha üst bir seviyeye taşımak, onları yeni tekniklerle ve C++17/20/23 gelen araçlar ve kütüphane öğeleri ile tanıştırmak, onların bilgi ve beceri düzeylerini arttırmaktır.
-
-🎯 Kursu tamamlayanlar ileri düzey C++ bilgisi gerektiren, low latency, oyun programlama, telekom, finansal endüstri, savunma sanayi, otomotiv, otonomi gibi alanlarda çalışmaya aday olacaklardır.
+🎯 Bu kursun amacı C++ programcılarını daha üst bir seviyeye taşımak, onları yeni tekniklerle ve C++17/20/23 gelen araçlar ve kütüphane öğeleri ile tanıştırmak, onların bilgi ve beceri düzeylerini arttırmaktır. İleri düzey C++ bilgisi olanlar, özellikle low latency, fintech, savunma ve telekomünikasyon gibi C++'ın sıkça kullanıldığı sektörlerde üst düzey işlerde çalışma fırsatı yakalayabilirler veya işverenler tarafından tercih edilebilirler.
 
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 
