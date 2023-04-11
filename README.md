@@ -16,7 +16,7 @@
 
 💰️ Programın toplam ücreti **14.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **12.500** &#8378;'dir. Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
 
-⚠ Kurs katılımcılarının temel düzeyde C++ diline hakim oldukları varsayılmaktadır. Necati Ergin'in C++ Programlama Dili Kursuna katılmış olan adaylar bu kursa doğrudan katılabilirler. 200 saatlik Temel C++ kursunu almayan katılımcı adayların kursa kayıt yaptırmadan Zoom üzerinden **Necati Ergin** ile görüşmeleri gerekmektedir.  
+⚠ Kurs katılımcılarının temel düzeyde C++ diline hakim oldukları varsayılmaktadır. Necati Ergin'in C++ Programlama Dili Kursuna katılmış olan adaylar bu kursa doğrudan katılabilirler. Temel C++ kursunu almayan katılımcı adayların kursa kayıt yaptırmadan Zoom üzerinden **Necati Ergin** ile görüşmeleri gerekmektedir.  
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-Ileri-C-Advanced-C-Kursu/blob/main/kurs_tanitimi.md)<br>
