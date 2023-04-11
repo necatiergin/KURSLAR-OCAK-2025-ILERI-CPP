@@ -69,5 +69,5 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 + __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.
 
 ## Kursa kayıt
-+ [Kursa ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZ0pd-6qqzooE9yzOdzbTq3bUwixs5-sKgnB)
++ [Kursa ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcrcOmspjstGNZHDwFJN2Nytk3i4XuzoveJ)
 Kursa ön kayıt yaptıranlar ile _(kesin kayıt için)_ Whatsapp ya da Telefon üzerinden iletişime geçilecektir.
