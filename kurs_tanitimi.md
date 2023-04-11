@@ -21,7 +21,7 @@ Dersler __Cumartesi ve Pazar__ günleri __09.00 – 13.00__ saatleri arasında _
 + Kursa katılacak öğrencilerin __Necati Ergin__ tarafından verilen temel seviye **C++ Programlama Dili** kursuna katılmış olmaları ya da **C++** diline temel düzeyde hakim olmaları gerekmektedir.
 
 ## Eğitim İçeriği
-[Eğitim içeriğini bu bağlantıdan görebilirsiniz.]([https://github.com/necatiergin/ileri_cplusplus_kursu/blob/main/kurs_icerigi.md](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md))
+[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)
 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__'nde eğitmen olarak görev yapmaktadır. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
