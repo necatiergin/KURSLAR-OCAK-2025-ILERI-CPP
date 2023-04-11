@@ -3,7 +3,7 @@
 + Bu kurs __Plepa Eğitim Hizmetleri__ tarafından düzenlenmektedir.
 + Kurs __17 Haziran Cumartesi__ günü başlayacaktır.
 + Bu kurs C++ dilini ve dilin standart kütüphanesini temel düzeyde öğrenmiş programcıların bilgilerini pekiştirmeyi, ileri düzey sayılabilecek konuları, araçları, teknikleri çok iyi öğrenmelerini ve yazılım üretiminde bu araçları kullanma becerisi edinmelerini hedeflemektedir.
-+ Kursta __C++20__ standartları ile dile eklenen araçlar ve standart kütüphane öğeleri ayrıntılı olarak anlatılmaktadır.
++ Kursta __C++20__ ve __C++23__ standartları ile dile eklenen araçlar ve standart kütüphane öğeleri ayrıntılı olarak anlatılmaktadır.
 + Eğitim programı tüm programlama ortamları için iyi, temiz ve etkin kod yazma becerisi kazandırmayı da amaçlamaktadır.
 
 ## Kurs Süresi
