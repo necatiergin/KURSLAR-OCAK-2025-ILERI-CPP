@@ -90,7 +90,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Techne Logos](https://www.tekhnelogos.com/),
 [THY Teknik](https://turkishtechnic.com/Home/TR), 
 [Tosyalı-Toyo](https://www.tosyaliholding.com.tr/),
-[Tradeware Teknoloji A.Ş.](https://tradewaretech.com/who-we-are/),
+[Tradeware Teknoloji A.Ş.](https://www.tradewaretech.com/who-we-are/),
 [Triodor Software](http://triodorarge.com/), 
 [Tusaş](https://www.tusas.com/),
 [Turkcell](https://www.turkcell.com.tr/), 
