@@ -15,7 +15,8 @@ Bireysel katılımcılar için kurs ücretine KDV dahildir.
 Kurumsal katılımlarda kurs ücretine __%18 KDV__ ilave edilecektir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
+Dersler __Cumartesi ve Pazar__ günleri __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır. <br>
+Öğrenciler kaçırdıkları ya da tekrar etmek istedikleri dersleri belirli koşullar dahilinde kurs sistemimiz üzerinden izleyebilirler.
 
 ## Ön Koşul
 + Kursa katılacak öğrencilerin __Necati Ergin__ tarafından verilen temel seviye **C++ Programlama Dili** kursuna katılmış olmaları ya da **C++** diline temel düzeyde hakim olmaları gerekmektedir.
