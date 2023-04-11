@@ -45,7 +45,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Bites](https://www.bites.com.tr/),
 [BMC](https://www.bmc.com.tr/),
 [BSH](https://www.bsh-group.com/tr/), 
-[Bull Technologies],
+[Bull Technologies](https://www.linkedin.com/company/bull-technologies/),
 [Cardtek](https://www.paycore.com/), 
 [Crytek](https://www.crytek.com/), 
 [Ctech](https://ctech.com.tr/tr),
