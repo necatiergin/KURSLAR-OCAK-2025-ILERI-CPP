@@ -3,6 +3,7 @@
 + Bu kurs __Plepa Eğitim Hizmetleri__ tarafından düzenlenmektedir.
 + Kurs __17 Haziran Cumartesi__ günü başlayacaktır.
 + Bu kurs C++ dilini ve dilin standart kütüphanesini temel düzeyde öğrenmiş programcıların bilgilerini pekiştirmeyi, ileri düzey sayılabilecek konuları, araçları, teknikleri çok iyi öğrenmelerini ve yazılım üretiminde bu araçları kullanma becerisi edinmelerini hedeflemektedir.
++ Bu kursun amacı _C++_ programcılarını daha üst bir seviyeye taşımak, onları yeni tekniklerle ve C++17/20/23 gelen araçlar ve kütüphane öğeleri ile tanıştırmak, onların bilgi ve beceri düzeylerini arttırmaktır.
 + Kursta __C++20__ ve __C++23__ standartları ile dile eklenen önemli araçlar ve standart kütüphane öğeleri de ayrıntılı olarak anlatılmaktadır.
 + Eğitim programı tüm programlama ortamları için iyi, temiz ve etkin kod yazma becerisi kazandırmayı da amaçlamaktadır.
 
@@ -100,7 +101,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 [Ulak Haberleşme](https://www.ulakhaberlesme.com.tr/index.php/tr/) gibi kurumlar yer almaktadır.
 
 ## Format
-+ __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.
++ İleri __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.
 
 ## Kursa kayıt
 + [Kursa ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcrcOmspjstGNZHDwFJN2Nytk3i4XuzoveJ)
