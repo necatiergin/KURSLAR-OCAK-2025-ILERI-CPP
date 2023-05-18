@@ -26,7 +26,7 @@ Dersler __Cumartesi ve Pazar__ günleri __09.00 – 13.00__ saatleri arasında _
 [Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)
 
 ## Eğitmen
-Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__'nde eğitmen olarak görev yapmaktadır. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
+Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana eğitmen olarak çalışmaktadır. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren **Necati Ergin**, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
 
 __Necati Ergin__'in eğitim verdiği kurumlar arasında 
 [Accenture](https://www.accenture.com/us-en),
