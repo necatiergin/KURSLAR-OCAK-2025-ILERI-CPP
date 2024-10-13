@@ -1,7 +1,7 @@
 # Online İleri C++ Kursu (Advanced C++)
 
 + Bu kurs __Plepa Eğitim Hizmetleri__ tarafından düzenlenmektedir.
-+ Kurs __17 Haziran Cumartesi__ günü başlayacaktır.
++ Kurs __21 Ocak Salı__ günü başlayacaktır.
 + Bu kurs C++ dilini ve dilin standart kütüphanesini temel düzeyde öğrenmiş programcıların bilgilerini pekiştirmeyi, ileri düzey sayılabilecek konuları, araçları, teknikleri çok iyi öğrenmelerini ve yazılım üretiminde bu araçları kullanma becerisi edinmelerini hedeflemektedir.
 + Kurs _C++_ programcılarını daha üst bir seviyeye taşıyacak, onları yeni tekniklerle ve C++17/20/23 gelen araçlar ve kütüphane öğeleri ile tanıştıracak, onların bilgi ve beceri düzeylerini arttıracak şekilde tasarlanmıştır.
 + Kursta __C++20__ ve __C++23__ standartları ile dile eklenen önemli araçlar ve standart kütüphane öğeleri de ayrıntılı olarak anlatılmaktadır.
@@ -11,12 +11,12 @@
 + Kurs süresi __160 saat__'tir. 
 
 ## Kurs Ücreti
-+ Kursun toplam ücreti __14.000 TL__'dir. Öğrenci olanlar için kurs ücreti __12.500__ TL'dir. 
++ Kursun ücreti 2024 Aralık ayı içinde belirlenecektir. 
 Bireysel katılımcılar için kurs ücretine KDV dahildir. 
-Kurumsal katılımlarda kurs ücretine __%18 KDV__ ilave edilecektir. 
+Kurumsal katılımlarda kurs ücretine __%20 KDV__ ilave edilecektir. 
 
 ## Ders Günleri ve Saatleri
-Dersler __Cumartesi ve Pazar__ günleri __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır. <br>
+Dersler __Salı ve Perşembe__ günleri __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır. <br>
 Öğrenciler kaçırdıkları ya da tekrar etmek istedikleri dersleri belirli koşullar dahilinde kurs sistemimiz üzerinden izleyebilirler.
 
 ## Ön Koşul
@@ -103,6 +103,8 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında
 ## Format
 + İleri __C++ Kursu__ online olarak gerçek zamanlı verilmektedir. __Udemy, Pluralsight__ ve benzeri sitelerdeki eğitimlerle karıştırılmamalıdır. Derslerin izlenmesi için __[Zoom](https://zoom.us/)__ yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene sesli ya da yazarak soru sorabilirler.
 
+<!---
 ## Kursa kayıt
 + [Kursa ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcrcOmspjstGNZHDwFJN2Nytk3i4XuzoveJ)
 Kursa ön kayıt yaptıranlar ile _(kesin kayıt için)_ Whatsapp ya da Telefon üzerinden iletişime geçilecektir.
+--->
