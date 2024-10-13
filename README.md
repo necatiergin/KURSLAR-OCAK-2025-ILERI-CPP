@@ -10,7 +10,7 @@
 
 📅 Kurs __21 Ocak 2025 Salı__ günü başlayacaktır. <br><br>
 
-⏰ Dersler __Salı ve Perşembe__ günleri __09:00 - 13.00__ saatleri arasında yapılacaktır.<br><br>
+⏰ Dersler __Salı ve Perşembe__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
 
 ⌛ Kursun toplam süresi __160__ saattir. <br><br>
 
