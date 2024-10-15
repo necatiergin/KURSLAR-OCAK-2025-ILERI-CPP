@@ -5,7 +5,6 @@
 🏫 Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.<br><br>
 
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.<br><br>
-
 👨 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br><br>
 
 📅 Kurs __21 Ocak 2025 Salı__ günü başlayacaktır. <br><br>
@@ -14,9 +13,11 @@
 
 ⌛ Kursun toplam süresi __160__ saattir. <br><br>
 
-<!---💰️ Programın toplam ücreti **14.000** &#8378;'dir. Öğrenci olanlar için kurs ücreti **12.500** &#8378;'dir. Kurumsal katılımlarda kurs ücretine **KDV** dahil değildir. Bireysel katılımlar için kurs ücretine **KDV** dahildir.<br><br>
---->
-
+✅ Programın toplam ücreti **32.000 TL**'dir. Peşin ödemede **29.000 TL**'dir.<br> 
+Öğrenci olanlar için kurs ücreti **29.000 TL**'dir. Peşin ödemede **26.000 TL**'dir.<br> 
+**Kurs ücreti 2 taksit olarak ödenebilir**.
+Kurumsal katılımlarda kurs ücretine KDV dahil değildir.<br>
+Bireysel katılımlar için kurs ücretine KDV dahildir.<br><br>
 ⚠ Kurs katılımcılarının temel düzeyde C++ diline hakim oldukları varsayılmaktadır. Necati Ergin'in C++ Programlama Dili Kursuna katılmış olan adaylar bu kursa doğrudan katılabilirler. Temel C++ kursunu almayan katılımcı adayların kursa kayıt yaptırmadan Zoom üzerinden **Necati Ergin** ile görüşmeleri gerekmektedir.  
 
 ## Kursla ilgili bağlantılar:
