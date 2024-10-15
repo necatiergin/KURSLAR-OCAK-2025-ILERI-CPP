@@ -11,9 +11,11 @@
 + Kurs süresi __160 saat__'tir. 
 
 ## Kurs Ücreti
-+ Kursun ücreti 2024 Aralık ayı içinde belirlenecektir. 
-Bireysel katılımcılar için kurs ücretine KDV dahildir. 
-Kurumsal katılımlarda kurs ücretine __%20 KDV__ ilave edilecektir. 
+Programın toplam ücreti **32.000 TL**'dir. Peşin ödemede **29.000 TL**'dir.<br> 
+Öğrenci olanlar için kurs ücreti **29.000 TL**'dir. Peşin ödemede **26.000 TL**'dir.<br> 
+**Kurs ücreti 2 taksit olarak ödenebilir**.<br>
+Kurumsal katılımlarda kurs ücretine KDV dahil değildir.
+Bireysel katılımlar için kurs ücretine KDV dahildir.<br><br>. 
 
 ## Ders Günleri ve Saatleri
 Dersler __Salı ve Perşembe__ günleri __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır. <br>
