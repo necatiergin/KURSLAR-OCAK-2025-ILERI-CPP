@@ -9,9 +9,9 @@
 
 📅 Kurs __21 Ocak 2025 Salı__ günü başlayacaktır. <br><br>
 
-⏰ Dersler __Salı ve Perşembe__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br><br>
+⏰ Dersler __Salı ve Perşembe__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br>
 
-⌛ Kursun toplam süresi __160__ saattir. <br><br>
+⌛ Kursun toplam süresi __160__ saattir. <br>
 
 ✅ Programın toplam ücreti **32.000 TL**'dir. Peşin ödemede **29.000 TL**'dir.<br> 
 Öğrenci olanlar için kurs ücreti **29.000 TL**'dir. Peşin ödemede **26.000 TL**'dir.<br> 
