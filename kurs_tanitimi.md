@@ -15,7 +15,7 @@ Programın toplam ücreti **32.000 TL**'dir. Peşin ödemede **29.000 TL**'dir.<
 Öğrenci olanlar için kurs ücreti **29.000 TL**'dir. Peşin ödemede **26.000 TL**'dir.<br> 
 **Kurs ücreti 2 taksit olarak ödenebilir**.<br>
 Kurumsal katılımlarda kurs ücretine KDV dahil değildir.
-Bireysel katılımlar için kurs ücretine KDV dahildir.<br><br>. 
+Bireysel katılımlar için kurs ücretine KDV dahildir.<br> 
 
 ## Ders Günleri ve Saatleri
 Dersler __Salı ve Perşembe__ günleri __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır. <br>
