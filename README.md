@@ -15,8 +15,8 @@
 
 ✅ Programın toplam ücreti **32.000 TL**'dir. Peşin ödemede **29.000 TL**'dir.<br> 
 Öğrenci olanlar için kurs ücreti **29.000 TL**'dir. Peşin ödemede **26.000 TL**'dir.<br> 
-**Kurs ücreti 2 taksit olarak ödenebilir**.
-Kurumsal katılımlarda kurs ücretine KDV dahil değildir.<br>
+**Kurs ücreti 2 taksit olarak ödenebilir**.<br>
+Kurumsal katılımlarda kurs ücretine KDV dahil değildir.
 Bireysel katılımlar için kurs ücretine KDV dahildir.<br><br>
 ⚠ Kurs katılımcılarının temel düzeyde C++ diline hakim oldukları varsayılmaktadır. Necati Ergin'in C++ Programlama Dili Kursuna katılmış olan adaylar bu kursa doğrudan katılabilirler. Temel C++ kursunu almayan katılımcı adayların kursa kayıt yaptırmadan Zoom üzerinden **Necati Ergin** ile görüşmeleri gerekmektedir.  
 
