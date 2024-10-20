@@ -7,9 +7,9 @@
 👨 Kurs eğitmeni **&#128279;[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)**'dir.<br>
 [Necati Ergin Youtube kanalı](https://www.youtube.com/@necatiergin)<br>
 
-📅 Kurs __21 Ocak 2025 Salı__ günü başlayacaktır. <br>
+📅 Kurs __20 Ocak 2025 Pazrtesi__ günü başlayacaktır. <br>
 
-⏰ Dersler __Salı ve Perşembe__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br>
+⏰ Dersler __Pazartesi ve Çarşamba__ günleri __19:30 - 22.30__ saatleri arasında yapılacaktır.<br>
 
 ⌛ Kursun toplam süresi __160__ saattir. <br>
 
