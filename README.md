@@ -24,6 +24,7 @@ Bireysel katılımlar için kurs ücretine KDV dahildir.<br><br>
 
 ## Kursla ilgili bağlantılar:
 &#128279; [Kursun Genel Tanıtımı](https://github.com/necatiergin/Online-Ileri-C-Advanced-C-Kursu/blob/main/kurs_tanitimi.md)<br>
+&#128279; [Kursun Eğitmeni](https://github.com/necatiergin/OCAK_2025_CPP_KURSU/blob/main/kurs_egitmeni.md)<br>
 
 <!---
 &#128279; [Kurs İçeriği](https://github.com/necatiergin/KURS_PROGRAMLARI/blob/main/ileri_cplusplus.md)<br>
